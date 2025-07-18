@@ -1,4 +1,4 @@
-# Magic Social - AI Content Generator
+# Social Surge - AI Content Generator
 
 Magic Social is a powerful, AI-driven web application that helps you generate high-quality social media content in seconds. Whether you need a catchy YouTube video description, trending Instagram hashtags, or a professional LinkedIn post, Magic Social has you covered.
 
